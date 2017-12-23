@@ -1,0 +1,25 @@
+{
+  "name": "jquery_tutorial",
+  "homepage": "https://github.com/wblong/jquery_tutorial",
+  "authors": [
+    "mi <sdwangbaolong@outlook.com>"
+  ],
+  "description": "jquery learning",
+  "main": "index.html",
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.10.*"
+  }
+}
